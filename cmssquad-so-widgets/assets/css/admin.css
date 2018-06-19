@@ -1,0 +1,16 @@
+.background-cover {
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.csow-widget-icon {
+  background-image: url("../img/csow-widget-icon.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.csow-custom-field-label {
+  font-weight: bold;
+}

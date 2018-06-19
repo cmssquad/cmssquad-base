@@ -1,0 +1,12 @@
+#ignore IDE generated files
+/.idea
+.sass-cache
+.vscode
+
+# Ignore OS generated files #
+*.DS_Store
+.DS_Store?
+*[Tt]humbs.db
+*.Trashes
+._*
+.Spotlight-V100
